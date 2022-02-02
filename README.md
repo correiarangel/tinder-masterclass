@@ -1,6 +1,8 @@
 # tinder_masterclass
+
 O projeto é um simples clone da tela inicia do tinder.
-Foi proposto na 2 aula turma 2 MasterClass ministrado Flutterando.
+
+Foi proposto na 2 aula turma 2 MasterClass Flutterando.
 
 ### #flutter
 ### #flutterando
