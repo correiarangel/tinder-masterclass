@@ -9,6 +9,8 @@ Foi proposto na 2 aula turma 2 MasterClass Flutterando.
 ### #masterclass
 ### #turma2
 
+- [Outra parte do desafio, Tela login Get Yuo Money](https://github.com/correiarangel/get_you_monet)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
